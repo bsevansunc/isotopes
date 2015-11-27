@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.25)  27 NOV 2015 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.25)  27 NOV 2015 11:37
 entering extended mode
 **C:/Users/Brian/Desktop/gits/isotopes/isotopFellowship_bsevans.tex
 (C:/Users/Brian/Desktop/gits/isotopes/isotopFellowship_bsevans.tex
@@ -157,32 +157,31 @@ LaTeX Warning: No \author given.
 [1
 
 {C:/Users/Brian/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 35--37
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+ [2]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
 
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
+[3]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-[2]
+ [4]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [3]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -191,10 +190,10 @@ Missing character: There is no ¨ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ñ in font cmr12!
 Missing character: There is no ¢ in font cmr12!
- [4] (isotopFellowship_bsevans.aux) )
+ [5] [6] (isotopFellowship_bsevans.aux) )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 19 (\begingroup)
+### semi simple group (level 1) entered at line 21 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  1660 strings out of 493673
@@ -203,7 +202,7 @@ Here is how much of TeX's memory you used:
  5030 multiletter control sequences out of 15000+200000
  8888 words of font info for 31 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,6n,32p,1235b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,32p,1758b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
@@ -211,9 +210,9 @@ mr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on isotopFellowship_bsevans.pdf (4 pages, 100917 bytes).
+Output written on isotopFellowship_bsevans.pdf (6 pages, 106091 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

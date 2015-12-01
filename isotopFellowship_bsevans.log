@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 DEC 2015 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 DEC 2015 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -223,11 +223,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2] [3] [4] [5]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no î in font cmr12!
- [6]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+ [6]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -242,11 +239,11 @@ Missing character: There is no ù in font cmr12!
 Here is how much of TeX's memory you used:
  2185 strings out of 493089
  31180 string characters out of 6134842
- 99096 words of memory out of 5000000
+ 102096 words of memory out of 5000000
  5656 multiletter control sequences out of 15000+600000
  10169 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,32p,1922b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,32p,3016b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
@@ -257,7 +254,7 @@ r17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on isotopFellowship_bsevans.pdf (8 pages, 127062 bytes).
+Output written on isotopFellowship_bsevans.pdf (8 pages, 126707 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream

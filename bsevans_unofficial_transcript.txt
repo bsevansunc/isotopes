@@ -1,0 +1,101 @@
+				
+Seq Nbr:
+1
+ID:
+714581118
+Brian Evans
+ 
+Internal Unofficial Transcript - UNC Chapel Hill
+Name      :  Brian Evans
+Student ID:  714581118
+Print Date   :  2015-12-01
+                  - - - - -   Academic Program History   - - - - -
+Program     :  AS Doctor of Philosophy
+2008-08-18  :  Active in Program
+               2008-08-18 : Ecology Major
+                 - - - - -   Beginning of Graduate Record   - - - - -
+                                      2008 Fall
+ECOL      567       ECOL ANAL & APPL                  3.00     3.00 H
+     Course Topic(s): ECOL CONSERV & SUST DEVL
+ECOL      891       SPECIAL TOPICS - ECOLOGY          4.00     4.00 H
+     Course Topic(s): SOUTHEASTERN FLORA
+GEOG      703       RESEARCH DESIGN                   3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :     10.00    10.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     10.00    10.00          0.000
+                    Good Standing
+                                      2009 Spr
+DUKE      720       ENVIRON 352 01 AT DUKE            3.00     3.00 H
+     Course Topic(s): SPATIAL ANALYSIS ECOLOGY
+ECOL      569       CURR ISSUES IN ECOL               3.00     3.00 H
+ECOL      961       RES IN ECOLOGY                    3.00     0.00 NR
+         TERM GPA :     0.000      TERM TOTALS :      9.00     6.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     19.00    16.00          0.000
+                    Good Standing
+                                      2009 Fall
+ECOL      961       RESEARCH IN ECOLOGY               6.00     6.00 H
+GEOG      477       INTRO TO REMOTE SENSING           3.00     3.00 P
+         TERM GPA :     0.000      TERM TOTALS :      9.00     9.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     28.00    25.00          0.000
+                    Good Standing
+                                      2010 Spr
+ECOL      461       FUNDAMENTALS OF ECOLOGY           4.00     4.00 B+
+ECOL      562       STAT FOR ENV SCIENTISTS           4.00     4.00 H
+GEOG      444       LANDSCAPE BIOGEOG                 3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :     11.00    11.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     39.00    36.00          0.000
+                    Good Standing
+                                      2010 Fall
+ECOL      563       STATS ECO AND EVOL                4.00     4.00 P
+ECOL      961       RESEARCH IN ECOLOGY               9.00     9.00 H
+         TERM GPA :     0.000      TERM TOTALS :     13.00    13.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     52.00    49.00          0.000
+                    Good Standing
+                                      2011 Spr
+ECOL      961       RESEARCH IN ECOLOGY               9.00     9.00 H
+         TERM GPA :     0.000      TERM TOTALS :      9.00     9.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     61.00    58.00          0.000
+                    Good Standing
+                                      2011 Fall
+ECOL      994       DOCTORAL DISSERTATION             9.00     9.00 H
+         TERM GPA :     0.000      TERM TOTALS :      9.00     9.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     70.00    67.00          0.000
+                    Good Standing
+                                      2012 Spr
+ECOL      994       DOCTORAL DISSERTATION             3.00     3.00 P
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     73.00    70.00          0.000
+                    Good Standing
+                                      2012 Fall
+ECOL      994       DOCTORAL DISSERTATION             3.00     3.00 P
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     76.00    73.00          0.000
+                    Good Standing
+                                      2013 Spr
+ECOL      994       DOCTORAL DISSERTATION             3.00     3.00 P
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     79.00    76.00          0.000
+                    Good Standing
+                                      2013 Fall
+ECOL      994       DOCTORAL DISSERTATION             3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     82.00    79.00          0.000
+                    Good Standing
+                                      2014 Spr
+ECOL      994       DOCTORAL DISSERTATION             3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     85.00    82.00          0.000
+                    Good Standing
+                                      2014 Fall
+ENEC      994       DOCT RESEARCH AND DISSERTATION    3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     88.00    85.00          0.000
+                    Good Standing
+                                      2015 Spr
+ENEC      994       DOCT RESEARCH AND DISSERTATION    3.00     3.00 H
+         TERM GPA :     0.000      TERM TOTALS :      3.00     3.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     91.00    88.00          0.000
+                    Good Standing
+                                      2015 Fall
+ENEC      994       DOCT RESEARCH AND DISSERTATION    3.00
+         TERM GPA :     0.000      TERM TOTALS :      0.00     0.00          0.000
+         CUM  GPA :     0.000      CUM  TOTALS :     91.00    88.00          0.000
